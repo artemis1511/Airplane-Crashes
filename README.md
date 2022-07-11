@@ -2,7 +2,7 @@
 This project  explores airplane datasets over a century between 1908 and 2009.
 
 ## Data Source
-This dataset was gotten from 
+This dataset was gotten from https://aka.ms/30DLDATGitHubRepo
 
 ## Project Objective
 This is a research project aimed at uncovering patterns within the data .
@@ -15,4 +15,8 @@ Took some time to familiarise myself with the data understand what each column w
 which countries had the most plane crashes ,some of the causes of plane crashes with war being one of the top reasons.
 
 ## Data Visualization
-Came up with visuals to match the insights I'd had in mind  
+Came up with visuals to match the insights I'd had in mind  and put them all together to build a dashboard which will empower stakeholders with information about plane crashes.
+
+## Conclusions
+This project's aim is to uncover patterns within the data culminating in a dashboard that would show viewers 
+what they wouldn't have noticed without this work. I believe this project has been able to meet that aim in presenting some insights on airplane Crashes. 
