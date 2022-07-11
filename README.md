@@ -19,7 +19,4 @@ Came up with visuals to match the insights I'd had in mind  and put them all tog
 
 ## Conclusions
 Russia,Brazil and Columbia have had the most fatalities and should consider investigating why and how it is lower in other countries to change their own narrative as well.
-This project's aim is to uncover patterns within the data culminating in a dashboard that would show viewers 
-
-
-what they wouldn't have noticed without this work. I believe this project has been able to meet that aim in presenting ome insights on airplane Crashes.
+This project's aim is to uncover patterns within the data culminating in a dashboard that would show viewers what they wouldn't have noticed without this work. I believe this project has been able to meet that aim in presenting insights on airplane Crashes.
