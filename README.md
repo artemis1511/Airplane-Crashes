@@ -18,5 +18,5 @@ which countries had the most plane crashes ,some of the causes of plane crashes 
 Came up with visuals to match the insights I'd had in mind  and put them all together to build a dashboard which will empower stakeholders with information about plane crashes.
 
 ## Conclusions
-Russia,Brazil and Columbia have had the most fatalities and should consider investigating why and how it is lower in other countries to change their own narrative as well.
+Russia,Brazil and Columbia have had the most fatalities and should consider investigating why and how it is lower in other countries to change their own narrative as well. Boeing and Douglas planes have the highest survival rates. Other operators should study what they're doing right so as to improve their own planes and increase likelihood of survival in case of crash.
 This project's aim is to uncover patterns within the data culminating in a dashboard that would show viewers what they wouldn't have noticed without this work. I believe this project has been able to meet that aim in presenting insights on airplane Crashes.
